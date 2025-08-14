@@ -1,20 +1,15 @@
-Blog API Project
-A simple blog application with a RESTful API backend and frontend interface for creating, reading, updating, and deleting blog posts.
+# Blog API with Express.js
 
-Features
-RESTful API with CRUD operations for blog posts
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-Frontend interface to interact with the API
+A full-stack blog application featuring a RESTful API backend with Express.js and a frontend interface for managing blog posts.
 
-In-memory data store (for development purposes)
+## 🚀 Features
 
-Responsive design
-
-Technologies Used
-Backend: Node.js, Express.js
-
-Frontend: EJS templates
-
-HTTP Client: Axios
-
-Package Manager: npm
+- **CRUD Operations**: Create, Read, Update, and Delete blog posts
+- **RESTful API**: Clean endpoints following REST conventions
+- **Frontend Interface**: User-friendly EJS templates
+- **In-Memory Database**: Simple data persistence for development
+- **Responsive Design**: Works on various screen sizes
