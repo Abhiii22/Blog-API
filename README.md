@@ -13,3 +13,4 @@ A full-stack blog application featuring a RESTful API backend with Express.js an
 - **Frontend Interface**: User-friendly EJS templates
 - **In-Memory Database**: Simple data persistence for development
 - **Responsive Design**: Works on various screen sizes
+ 
